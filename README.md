@@ -20,3 +20,14 @@ Understand the theory and intuition behind Recurrent Neural Networks and LSTM
 Build and train the deep learning model
 
 Access the performance of the trained model
+
+
+                PROJECT OUTCOMES
+                
+Learned to
+Create a pipeline to remove stop-words, perform tokenization and padding
+
+Understand the theory and intuition behind Recurrent Neural Networks and LSTM
+
+Train the deep learning model and assess its performance   
+
